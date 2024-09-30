@@ -9,3 +9,5 @@ Uma lista generalizada é constituida de átomos e caudas. Ou seja, para acessar
 percorreríamos o caminho head(tail(head(L)))
 
 Com essa estrutura de dados, poderiamos construir listas aninhadas na linguagem C. 
+
+![image](https://github.com/user-attachments/assets/eb449002-f602-4659-aec3-7a1b36271e6d)
